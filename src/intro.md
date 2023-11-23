@@ -8,10 +8,10 @@ Through hands-on programming exercies, participants will gain practical experien
 
 <div class="toc">
 
-## Introduction to Python { .chapter }
-### Welcome to Python { .section }
-#### What is Python? { .subsection }
-#### Python in Software, Hardware, and Verification { .subsection }
+## Introduction to Python
+### Welcome to Python
+#### What is Python?
+#### Python in Software, Hardware, and Verification
 
 ### Python Basics
 #### Syntax and Structure
