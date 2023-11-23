@@ -7,6 +7,28 @@ Through hands-on programming exercies, participants will gain practical experien
 # Course Structure
 
 ## Module 1: Introduction to Python
+### Welcome to Python
+   - #### What is Python?
+   - #### Python in Software, Hardware, and Verification
+
+### Python Basics
+   - #### Syntax and Structure
+   - #### Variables and Data Types
+   - #### Basic Operators
+
+### Control Structures
+   - #### Conditional Statements
+   - #### Loops and Iterations
+
+### Functions and Modules
+   - #### Defining Functions
+   - #### Importing Modules
+
+### Python Scripting Essentials
+   - #### Scripting vs. Programming
+   - #### Writing Basic Scripts
+   - #### Debugging and Error Handling
+
 
 ## Module 2: Python For RTL Verification
 
