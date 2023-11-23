@@ -9,6 +9,8 @@ Through hands-on programming exercies, participants will gain practical experien
 <div class="toc">
 
 ## Introduction to Python
+<details >
+
 ### Welcome to Python
 #### What is Python?
 #### Python in Software, Hardware, and Verification
@@ -31,13 +33,27 @@ Through hands-on programming exercies, participants will gain practical experien
 #### Writing Basic Scripts
 #### Debugging and Error Handling
 
+</details >
+
 
 ## Python For RTL Verification
+<details >
+TBD
+</details >
 
 ## Python for Tool Flows
+<details >
+TBD
+</details >
 
 ## Python for Software Testing
+<details >
+TBD
+</details >
 
 ## Python on Embedded Devices
+<details >
+TBD
+</details >
 
 </div>

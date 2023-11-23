@@ -40,3 +40,17 @@ h4::before {
     content: counter(chapter) "." counter(section) "." counter(subsection) " "; /* Chapter.Section.Subsection format */
 }
 
+details > summary {
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #333;
+}
+
+details > p {
+    padding: 0 20px;
+    font-size: 14px;
+}
+
+/* Add more styles as needed */
+
