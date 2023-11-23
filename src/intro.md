@@ -6,34 +6,38 @@ Through hands-on programming exercies, participants will gain practical experien
 
 # Course Structure
 
-## Module 1: Introduction to Python
-### Welcome to Python
-   - #### What is Python?
-   - #### Python in Software, Hardware, and Verification
+<div class="toc">
+
+## Introduction to Python { .chapter }
+### Welcome to Python { .section }
+#### What is Python? { .subsection }
+#### Python in Software, Hardware, and Verification { .subsection }
 
 ### Python Basics
-   - #### Syntax and Structure
-   - #### Variables and Data Types
-   - #### Basic Operators
+#### Syntax and Structure
+#### Variables and Data Types
+#### Basic Operators
 
 ### Control Structures
-   - #### Conditional Statements
-   - #### Loops and Iterations
+#### Conditional Statements
+#### Loops and Iterations
 
 ### Functions and Modules
-   - #### Defining Functions
-   - #### Importing Modules
+#### Defining Functions
+#### Importing Modules
 
 ### Python Scripting Essentials
-   - #### Scripting vs. Programming
-   - #### Writing Basic Scripts
-   - #### Debugging and Error Handling
+#### Scripting vs. Programming
+#### Writing Basic Scripts
+#### Debugging and Error Handling
 
 
-## Module 2: Python For RTL Verification
+## Python For RTL Verification
 
-## Module 3: Python for Tool Flows
+## Python for Tool Flows
 
-## Module 4: Python for Software Testing
+## Python for Software Testing
 
-## Module 5: Python on Embedded Devices
+## Python on Embedded Devices
+
+</div>

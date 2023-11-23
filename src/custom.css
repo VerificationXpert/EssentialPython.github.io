@@ -1,0 +1,42 @@
+body {
+    counter-reset: chapter;  /* Reset chapter counter */
+}
+
+/* Default styles for chapters and sections */
+.toc h2 {
+    padding-left: 1px;
+}
+.toc h3 {
+    padding-left: 20px;
+}
+.toc h4 {
+    padding-left: 40px;
+}
+
+h2 {
+    counter-reset: section;  /* Reset section counter at each new chapter */
+    counter-increment: chapter;  /* Increment chapter counter */
+}
+
+h2::before {
+    content: "Module " counter(chapter) ". ";
+    font-weight: bold;
+}
+
+h3 {
+    counter-reset: subsection;  /* Reset subsection counter at each new section */
+    counter-increment: section;  /* Increment section counter */
+}
+
+h3:before {
+    content: counter(chapter) "." counter(section) " "; /* Chapter.Section format */
+}
+
+h4 {
+    counter-increment: subsection;  /* Increment subsection counter */
+}
+
+h4::before {
+    content: counter(chapter) "." counter(section) "." counter(subsection) " "; /* Chapter.Section.Subsection format */
+}
+
